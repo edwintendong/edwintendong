@@ -10,6 +10,7 @@
       and Phase Behavior of Nano-Confined Fluids and Colloidal Suspensions, Glass formers and other complex fluids.
 - 💞️ I’m looking to collaborate with anyone who can contribute scripts and simulation tips (LAMMPS and GROMACS) in the Complex fluids domain
 - 📫 You can reach me through the email tendong@bose.res.in
+- 📫 You can see my research and publications on website https://edwintendong.github.io/
 
 <!---
 edwintendong/edwintendong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
