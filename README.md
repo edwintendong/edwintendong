@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edwine (@edwintendong)
+- 👋 Hi, I’m Edwine 
 - 👀 I’m interested in creating a collection of simple standalone Python and FORTRAN scripts for calculating material properties and analyzing particle trajectories generated from molecular dynamics simulation packages such as LAMMPS and GROMACS etc.
       - My emphasis is on simplicity and clarity of the scripts and not on the efficiency/execution speed.
       - I want the scripts to communicate clearly the basic steps of the calculation being performed.
